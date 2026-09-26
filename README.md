@@ -8,6 +8,7 @@ a governance strategy.
 ## The question
 What does responsible data governance look like in healthcare, and
 how does synthetic patient data compare to real de-identified data?
+![Synthetic data with identifying-looking fields](identifying_fields_table.png)
 
 ## The data
 Synthea (MITRE)1,163 fully synthetic patients, 38,094 conditions,
